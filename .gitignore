@@ -1,0 +1,9 @@
+# Игнор-лист файлов проекта
+
+*.vcxproj
+*.filters
+
+
+Debug/*
+tests/*
+
